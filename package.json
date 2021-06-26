@@ -1,0 +1,19 @@
+{
+  "name": "ivanteterintsf827",
+  "version": "1.0.0",
+  "description": "Homework skillfactory 8.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanteterin/sf-827.git"
+  },
+  "author": "Ivan Teterin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanteterin/sf-827/issues"
+  },
+  "homepage": "https://github.com/ivanteterin/sf-827#readme"
+}
